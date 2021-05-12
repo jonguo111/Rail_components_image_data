@@ -1,5 +1,5 @@
 # Rail_components_image_data
-This is a pulic rail components image dataset including three object classes which are rail, clip, and spike. For the engineering application, please refer to https://onlinelibrary.wiley.com/doi/pdf/10.1111/mice.12625
+This is a pulic rail components image database including three object classes which are rail, clip, and spike. For the engineering application, please refer to https://onlinelibrary.wiley.com/doi/pdf/10.1111/mice.12625
 
 
 
